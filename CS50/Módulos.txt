@@ -1,0 +1,10 @@
+MÓDULO 1 - Linguagem C, foi visto:
+-C; CS50 IDE; Compilação; Funções e argumentos; Função principal(main) e arquivos de cabeçalho; Ferramentas; Comandos; Tipos e Códigos de Formato; Operadores, limitações, truncamento; Variáveis e Açúcar Sintático(boas práticas); Condicionais; Expressões booleanas, loops; Abstração; Mario; Memória, imprecisão e overflow.
+
+Ao escrever o código, podemos considerar as seguintes qualidades:
+-Correção, ou se nosso código funciona corretamente, conforme planejado.
+-Design, ou uma medida subjetiva de quão bem escrito nosso código é, com base em quão eficiente, elegante ou logicamente legível ele é, sem repetição desnecessária.
+-Estilo, ou o quão esteticamente formatado nosso código é, em termos de indentação consistente e outra colocação de símbolos. As diferenças de estilo não afetam a exatidão ou o significado do nosso código, mas afetam o quão legível é visualmente.
+
+MÓDULO 2 - Arrays, foi visto:
+- Compilação (compilando o código); Depuração (depurando o código); Memória; Matrizes; Personagens; Cordas; Argumentos de linha de comando; Formulários
